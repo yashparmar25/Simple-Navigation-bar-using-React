@@ -1,0 +1,33 @@
+.App {
+  background-color: #fefefe;
+  height: 100vh;
+  width: 100%;
+}
+.about{
+  font-weight: 700;
+  color: rgb(223, 0, 0);
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-top: 17%;
+  padding-bottom: 30%;
+  background-color: lightgreen;
+}
+.h1{
+  font-weight: 1000000;
+  background-color: black;
+  width: 500px;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  margin-left: 33%;
+}
+.span{
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 1000000;
+}
+.p{
+  color:rgb(0, 147, 238);
+  font-style: italic;
+}
